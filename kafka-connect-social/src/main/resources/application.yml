@@ -1,0 +1,29 @@
+server:
+  port: 9090
+spring:
+  kafka:
+    bootstrap-servers:
+      - 10.1.6.12:9092
+    producer:
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+
+logging:
+  level:
+    com.company: debug
+social:
+    facebook:
+      page1: #page Tư vấn vay vốn
+        token: EAAJ7DsRmoOYBAJO0XW3BzMcKTC07AJ6vxypMMXDh4oUUikdHJ0DwgudnF1YGHBf8BadoDARHuBuFrQoPMyDcl2PQyiTwx0ZBawucH0ZBND2OxZC9GsfkK2dZBEVNPnaLPhpeJh3EQbck6UJsAFLweCeLnZBjRZBlSZAdXjQTiq3tCnoAMQNP5jj
+        id: 109826038070355
+      page2: #page Vay du học
+        token: EAAJ7DsRmoOYBAI1ezGbjG80U1pZBe3lG0o6Mw6sRmSIKZAETvbCsytUJYzXWhoRhdNTcLnxguK1jSrFpxCXZBwuOIjmQNqhWr7aa1jNccRAHUevqFjleN1y86EuBC0MklLfJEyWVx83Ii9pqMs3JDv6hkGmk5SM1Al4u48yiCkrQrmbHLam
+        id: 102799935498805
+      page3: #page Team Contact Center
+        token: EAAFF7z9di3UBAO4ikaVf7EF72eAZABnNJL6WSsHrBSLPObd66OKO5FJaRbRkxmv6fLZBJrW2a3RiCJcIiKct2TVc2dX7R1SMZCmCXGG2zP790DCTKqywGUULEZA9eF3BjXfofZBkcL5kYJ0WAfS6XsZCnG6V9RbjpUCQbzt8E7xkSrEHPA2idyYKAx5igIPWEZD
+        id: 1152178308258978
+    zalo:
+      token: bLgDCvcWfJcKN8uncwUdDPPVYZwUkTOpon2lEAAqvLtBHRq6gCBjSyrejmMWyTjSzsZo2hZmfLZfMzmzXEIdHkeR_qFYvT4GlnsEMF3bwJ65ISHq_DRfUAehdIV8c_4eoZwXRhsQyY3ZEjTowB2b7hatwLhFd9ehh6JWGyRQc2ZHVTH6Y86xJzKFvnYwXf98nJVd3BU8mrRZ9EiBz8Uv6gmvr7xxleywg27_IDYGgmIf7D9BnU216xjZgshKuVulkckxMxJtb2BeI-r8X-h9GuGGvGaqRZh87JoSlA8z
+      id: 2262567464534870072
+    kafka-topic:
+      facebook: facebook-event
+      zalo: zalo-event

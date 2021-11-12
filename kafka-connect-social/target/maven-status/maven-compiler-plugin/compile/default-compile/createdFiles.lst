@@ -1,0 +1,17 @@
+com\company\kafkawebhook\KafkaWebhookApplication.class
+com\company\kafkawebhook\utils\ZaloUtils.class
+com\company\kafkawebhook\webhook\MessengerWebhook.class
+com\company\kafkawebhook\models\MessageBase.class
+com\company\kafkawebhook\builder\Response.class
+com\company\kafkawebhook\webhook\ZaloWebhook.class
+com\company\kafkawebhook\utils\FacebookUtils.class
+com\company\kafkawebhook\controller\KafkaController.class
+com\company\kafkawebhook\config\SocialConfig.class
+com\company\kafkawebhook\models\MessageAttachment.class
+com\company\kafkawebhook\models\MessageReaction.class
+com\company\kafkawebhook\utils\SocialUtils.class
+com\company\kafkawebhook\builder\Response$Builder.class
+com\company\kafkawebhook\models\SocialUserInformation.class
+com\company\kafkawebhook\engine\FacebookProducer.class
+com\company\kafkawebhook\engine\ZaloProducer.class
+com\company\kafkawebhook\builder\Response$1.class

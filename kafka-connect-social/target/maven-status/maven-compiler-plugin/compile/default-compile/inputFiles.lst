@@ -1,0 +1,15 @@
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\engine\FacebookProducer.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\models\MessageAttachment.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\engine\ZaloProducer.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\webhook\ZaloWebhook.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\utils\FacebookUtils.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\models\MessageReaction.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\utils\SocialUtils.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\utils\ZaloUtils.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\controller\KafkaController.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\builder\Response.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\models\SocialUserInformation.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\models\MessageBase.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\webhook\MessengerWebhook.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\config\SocialConfig.java
+E:\Sunivy Sources\Social Connect\social-connect\kafka-connect-social\src\main\java\com\company\kafkawebhook\KafkaWebhookApplication.java
